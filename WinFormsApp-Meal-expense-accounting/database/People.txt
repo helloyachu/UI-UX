@@ -1,0 +1,9 @@
+1,Emily,Marketing,Digital_Marketing_Specialist,Specialist,
+2,Jessica,Marketing,Brand_Manager,Manager,
+3,Olivia,Human_Resources,HR_Generalist,Executive,
+4,Sarah,Sales,Account_Manager,Manager,
+5,Grace,Operations,Inventory_Control_Specialist,Specialist,
+6,Daniel,Finance,Accountant,Executive,
+7,Ethan,IT_Department,Systems_Administrator,Supervisor,
+8,Jason,Corporate Services,Administrative Assistant,Support Staff,
+
